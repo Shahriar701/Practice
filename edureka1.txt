@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-change korsi
-ekhaneo change korsi
-kisui hoy nai
-aschorjo
-=======
 kisui hoy nai
 aschorjo
 ami arekta kaj korsi
