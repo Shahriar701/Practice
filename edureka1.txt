@@ -1,7 +1,4 @@
 notun suru
 k jeno change korse
-<<<<<<< HEAD
 dhuro bal
-=======
 arekta bal
->>>>>>> 61b1b4397ef76677615d7319dadf6b4943b7a39a
