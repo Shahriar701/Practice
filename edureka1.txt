@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 change korsi
 ekhaneo change korsi
 kisui hoy nai
 aschorjo
+=======
+kisui hoy nai
+aschorjo
+ami arekta kaj korsi
+tumi arekta kaj korso
+>>>>>>> b709e2a907a6a0248971e683dc7eaf2525de4ea0
